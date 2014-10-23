@@ -1,4 +1,4 @@
-Learning_Java
+Learning Java
 =============
 
 My repo where I sync all my programs that I make while I'm learning Java.
